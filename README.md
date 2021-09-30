@@ -1,2 +1,2 @@
-#Hello，how are you? It is a good day.Friday.
+#Hello，how are you? It is a good day.
 I am daisy.
